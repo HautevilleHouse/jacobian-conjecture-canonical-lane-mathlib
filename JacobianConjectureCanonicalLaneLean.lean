@@ -1,0 +1,7 @@
+-- This module is the root of the JacobianConjectureCanonicalLaneLean Lean proof package.
+import JacobianConjectureCanonicalLaneLean.Basic
+import JacobianConjectureCanonicalLaneLean.SourcePackage
+import JacobianConjectureCanonicalLaneLean.SourceDependencies
+import JacobianConjectureCanonicalLaneLean.Formalization
+import JacobianConjectureCanonicalLaneLean.ReviewerBridge
+import JacobianConjectureCanonicalLaneLean.TheoremStatement
